@@ -1,0 +1,17 @@
+h1 {
+  color: rgb(114, 12, 111);
+  font-size: 40px;
+  text-align: center;
+}
+body {
+  border: 5px solid rgb(177, 94, 170);
+  text-align: center;
+}
+
+h2 {
+  color: rgb(100, 40, 157);
+  font-size: 40px;
+}
+div {
+  font-size: 30px;
+}
